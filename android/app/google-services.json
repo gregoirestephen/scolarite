@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678758657697",
+    "project_id": "mascolarite-2f36e",
+    "storage_bucket": "mascolarite-2f36e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678758657697:android:8791430888f8056e784ae0",
+        "android_client_info": {
+          "package_name": "com.example.scolarite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnGmfbVkLOEuEa7fpBetAlVX3T6tfp5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
