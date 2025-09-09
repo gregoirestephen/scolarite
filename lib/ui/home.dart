@@ -43,8 +43,8 @@ class HomePage extends ConsumerWidget {
             SizedBox(height: 16),
             Card(
               child: ListTile(
-              title: Text('Objectif', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-              subtitle: Text('MASCOLAITE a pour objectif de faciliter le paiement de la scolarité', style: TextStyle(fontSize: 16)),
+              title: Text('Fonctionnalités', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+              subtitle: Text("MASCOLAITE permet l'Ajout des Etudiant, la Modification des etudiants, le règlement de la scolarité, la decrementation automatique du montant de la scolarite en affichant le solde.", style: TextStyle(fontSize: 16)),
             ),
             ),
           ],
